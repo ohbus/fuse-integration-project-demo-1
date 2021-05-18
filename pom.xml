@@ -2,10 +2,9 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mycompany</groupId>
+  <groupId>xyz.subho</groupId>
   <artifactId>camel-spring-cxf-code-first</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <packaging>bundle</packaging>
   <name>Camel Spring CXF Contract-first Quickstart</name>
   <description>Camel Spring Example with a CXF Code-first Service</description>
   <licenses>
